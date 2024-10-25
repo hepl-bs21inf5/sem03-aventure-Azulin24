@@ -1,6 +1,9 @@
 | Tâche        |Temps estimé|  Temps passé | Commentaire                    |
 | ------------ | ---|-------- | ------------------------------ |
-| Estimation |5 min |6 min          |                                |
-| Une aventure | 1 h 20 min|    79 min 14h40 | J'ai mis "il" à la place de "li"|
-| Votre aventure| 1 h 30 min|...         | ...                            |
-| Total        | 2 h 55 min|        |                                |
+| Estimation |5min |6min          |                                |
+| Une aventure | 1h20min|   2h35min | J'ai mis "il" à la place de "li", pip installé dans un dossier qui n'est pas inclus dans la variable d'environnement "PATH", difficile à comprendre l'erreur lorsque test "failed" s'affiche (je me suis beaucoup aidé de chatgpt) |
+| Votre aventure| 1h30min| 3h25min| pas d'imagination                          |
+| Total        | 2h55min|   6h06min    |                                |
+
+![Organigramme](images/organigramme1.jpg)
+![Organigramme](images/organigramme2.jpg)
